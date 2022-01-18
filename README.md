@@ -5,4 +5,4 @@
 ## 1) A Horizontal bar chart
 ## 2) A Bubble chart
 ## 3) A Guage chart
-## 4) A dashboard
+## 4) A dashboard for review
